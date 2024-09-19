@@ -1,0 +1,20 @@
+*{
+    font-family: sans-serif;
+    background-color:lightgreen
+}
+
+.border {
+    height: 15px;
+    background-color: #d3d16c;
+    border-color: #d3d16c;
+    border-width: 5px;
+
+}
+
+.tittel {
+    font-size: 50px;
+}
+
+.bilder {
+    text-align: right;
+}
