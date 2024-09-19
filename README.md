@@ -1,0 +1,1 @@
+Jeg valgte nettsiden https://acme.com/ siden jeg følte ikke meg sikker på en annen nettside. I tillegg var meste parten av nettsiden bare tekst, og jeg klarte å bygge opp nettsiden ganske lik som originalen, men jeg hadde problemer med å få bilder til å se ut som de gjør på acme nettsiden.  
